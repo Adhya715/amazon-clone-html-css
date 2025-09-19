@@ -16,5 +16,4 @@ This is a clone of the Amazon homepage UI — built purely with **HTML** and **C
 
 - Structuring HTML properly  
 - Using CSS for layout (flex, grid, positioning)  
-- Styling images, cards, navigation bar, and hero sections  
-- Handling responsive behavior (if you included media queries) 
+- Styling images, cards, navigation bar, and hero sections   
